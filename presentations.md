@@ -1,4 +1,9 @@
-## Méthodes et outils de récolte
+
+---
+layout: page
+title: Méthodes et outils de récolte
+---
+
 
 Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. 
 
