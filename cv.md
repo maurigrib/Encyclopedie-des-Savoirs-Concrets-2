@@ -1,5 +1,6 @@
 ---
-layout: resume
+layout: page
+title: Premiers témoignages
 ---
 
 ## Christian Topalov, directeur de recherche, CNRS-EHESS, Paris
