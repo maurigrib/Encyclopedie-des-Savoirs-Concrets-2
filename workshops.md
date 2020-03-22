@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Financer le projet
 ---
 
-# Workshops I've Put Together
-
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+Une cagnotte sera organisée pour pouvoir financer les frais de développement....
