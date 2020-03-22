@@ -1,7 +1,6 @@
 ---
 layout: presentation-post-index
 title: Méthodes et outils de récolte
-excerpt: "Recent Presentations"
 ---
 Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. 
 
