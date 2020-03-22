@@ -1,3 +1,7 @@
+---
+layout: resume
+---
+
 ## Christian Topalov, directeur de recherche, CNRS-EHESS, Paris
 
 [enregistrement du 1er Octobre 2019](https://www.youtube.com/watch?v=J_SIZgnzgeA&t=7s)
