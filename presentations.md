@@ -1,7 +1,5 @@
----
-layout: presentation-post-index
-title: Méthodes et outils de récolte
----
+## Méthodes et outils de récolte
+
 Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. 
 
 Chaque témoignage sera filmé sur fond neutre, en plan rapproché et le montage finale aura une durée maximale de 20 minutes, comprenant une courte présentation autobiographique suivie du récit des expériences concrètes de la personne interviewée.
