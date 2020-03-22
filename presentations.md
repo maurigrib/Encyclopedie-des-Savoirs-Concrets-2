@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Méthodes et outils de récolte
