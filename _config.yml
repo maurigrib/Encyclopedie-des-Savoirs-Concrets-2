@@ -1,6 +1,7 @@
 # Site wide configuration
 
 title: Encyclopédie des Savoirs Concrets
+owner :
 avatar: bio-photo.jpg
 email: encyclopediedessavoirsconcrets@protonmail.com
 
