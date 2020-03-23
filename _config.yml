@@ -3,10 +3,11 @@
 title: Encyclopédie des Savoirs Concrets
 locale: 
 logo: # filename of a logo image that has been placed into your images directory
+email: encyclopediedessavoirsconcrets@protonmail.com
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 # ici j'ai tout effacé car il n'y avait que des demandes de nom, prénom, adresse facebook et connerie du type...
-email: encyclopediedessavoirsconcrets@protonmail.com
+
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
