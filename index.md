@@ -3,7 +3,7 @@ layout: page
 title:  Encyclopédie des Savoirs Concrets
 ---
 
-## 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales dans leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
+## 100 femmes et hommes transmettent leurs savoirs concrets sur les impacts des politiques néolibérales sur leurs vies, leurs environnements de travail, leurs territoires et les biens communs. 
 
 Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoires et formes d’habitat, seront enregistrés et diffusés sur un site web spécialement conçu. 
 
