@@ -381,6 +381,7 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
+		overflow-wrap: break-word;
 		@include rounded(150px);
 	}
 	@media #{$small} {
