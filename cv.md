@@ -5,14 +5,13 @@ title: Premiers témoignages
 
 ### Christian Topalov, directeur de recherche, CNRS-EHESS, Paris
 <br>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J_SIZgnzgeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="779" height="438" src="https://www.youtube.com/embed/SvOhVw2mSdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br> <br>
 
 ### Alain Pensa, ingénieur informatique, Orange-Télécom, Saint-Denis
 <br> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lolNBEfpLF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="779" height="438" src="https://www.youtube.com/embed/coCIVyK7sJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
