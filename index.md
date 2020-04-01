@@ -16,7 +16,7 @@ Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoi
 <br> *Christian, directeur de recherche, CNRS, Paris*
 <br> <br>
 
-« la volonté politique est de faire disparaitre cette institution et de transformer nos juges en échevins autour d’un juge professionnel. Ce qui serait très négatif parce que j’ai l’impression d’être devenue juge en rédigeant des jugements. (…) et en présidant des audiences. C’est là vraiment que le métier rentre. Si on ne préside plus, si on ne rédige plus on sera juste de potiches… Ce n’est pas la peine…
+« la volonté politique est de faire disparaitre cette institution et de transformer nos juges en échevins autour d’un juge professionnel. Ce qui serait très négatif parce que j’ai l’impression d’être devenue juge en rédigeant des jugements. (…) et en présidant des audiences. C’est là vraiment que le métier rentre. Si on ne préside plus, si on ne rédige plus on sera juste des potiches… Ce n’est pas la peine…
 En quelques sorte l’idée de cette loi c’est qu’il faut sécuriser les entreprises. (…) Ça apparait assez fou là mais la délinquance des entrepreneurs doit être protégée. Il faut protéger les délinquants… » 
 <br> *Maryse, Juge prudhommale, Paris*
 <br> <br>
@@ -30,6 +30,6 @@ En quelques sorte l’idée de cette loi c’est qu’il faut sécuriser les ent
 Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer une large base de données d’interviews filmées ayant pour thématique l’impact réel sur le tissu de la société française des réformes et des transformations économiques et sociales qui ont eu lieu au cours des dernières décennies.
 
 
-Les différentes phases de réalisation du projet seront elles-mêmes filmées et montées dans un documentaire de 52 minutes. Les moments clefs de l’expérience par un récit de type road movie qui met en lumière questionnements, les rencontres, les différents territoires dans lesquels s’encadrent les récits des témoins.
+Un récit de type road movie des moments clefs de l'expérience mettra en lumière les questionnements, les rencontres, et les différents territoires dans lesquels s'encadrent les récits des témoins.
   
   
