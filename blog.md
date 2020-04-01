@@ -12,6 +12,6 @@ Si vous êtes monteur/monteuse, votre aide serait précieuse dans le montage des
 
 Si vous êtes développeur web et/ou designer, votre aide serait précieuse dans le développement du site web destiné à récolter l'ensemble des témoignages.
 
-Vous pouvez participer avec des suggestions d'amélioration des textes, présentations, , ou en suggerant un contact avec d'autres témoignage 
+Vous pouvez participer avec des suggestions d'amélioration des textes, présentations, ou en suggérant un contact avec d'autres témoins.
 
 Vous pouvez nous aider en proposant de témoigner sur votre expérience de vie ou de travail
