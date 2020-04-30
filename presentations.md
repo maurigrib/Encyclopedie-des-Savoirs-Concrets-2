@@ -18,9 +18,9 @@ Pour permettre une large reproduction de l’expérience, les témoignages seron
 
 Cette phase, actuellement en cours, est avant tout destinée à valider les méthodes de travail, évaluer la qualité des résultats et élargir le cercle des collaborateurs.
 
-Dans cette optique nous avons individualisé un premier groupe de témoins à partir des contacts directs d’un réseau de chercheurs universitaires qui travaillent au niveau national sur les questions de l’inégalité sociale et des transformations du marché du travail. Cela nous a permis de contacter un premier cercle de 30 témoins que nous sommes en train d’interviewer.
+Dans cette optique nous avons individualisé un premier groupe de témoins à partir des contacts directs d’un réseau de chercheurs universitaires qui travaillent au niveau national sur les questions de l’inégalité sociale et des transformations du marché du travail. Cela nous a permis de contacter un premier cercle de 30 témoins que nous avons commencé à interviewer.
 
-Nous prévoyons de conclure cette première phase du travail pour la fin du mois de juin 2020.  
+Nous avons dû interrompre cette première phase du travail à cause du confinement mais nous prévoyons de la reprendre à partir du mois de septembre 2020.  
 
 **Deuxième phase de récolte**
 
