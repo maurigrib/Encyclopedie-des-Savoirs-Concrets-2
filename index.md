@@ -18,7 +18,7 @@ Les témoignages de 100 hommes et femmes appartenant à divers milieux, territoi
 
 « la volonté politique est de faire disparaitre cette institution et de transformer nos juges en échevins autour d’un juge professionnel. Ce qui serait très négatif parce que j’ai l’impression d’être devenue juge en rédigeant des jugements. (…) et en présidant des audiences. C’est là vraiment que le métier rentre. Si on ne préside plus, si on ne rédige plus on sera juste des potiches… Ce n’est pas la peine…
 En quelques sorte l’idée de cette loi c’est qu’il faut sécuriser les entreprises. (…) Ça apparait assez fou là mais la délinquance des entrepreneurs doit être protégée. Il faut protéger les délinquants… » 
-<br> Maryse, Juge prudhommale, Paris
+<br> Hélène, Juge au Conseil de prud’hommes, Paris
 <br> <br>
 
 « Il y a encore une vingtaine d’année, ici on avait la polyculture. Il y avait de l’élevage, et on avait plusieurs types de cultures.  Maintenant, autour de nous, il n’y a plus que du blé, du maïs et de  la betterave. Nous, les petits on a été écrasé. On essaye de produire encore. On fait des légumes et de la viande de bonne qualité. Mais on ne peut plus y vivre. »
