@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Mythes et réalités du néolibéralisme
+title: Mythes et réalités du projet néolibéral
 ---
 
-## Les mythes et les images du projet néolibéral
 
 Depuis quarante ans quelques soient les alternances politiques nous vivons dans une société dans laquelle s’est progressivement imposée une forme d’explication du réel qui identifie l’image de la modernité et du progrès avec le développement d’une économie de marché libérée de toute contrainte.  D’où l’impératif, partagé depuis les années 1980 par l’ensemble des groupes au pouvoir, de favoriser par tous les moyens la production et le commerce en ouvrant grandes les portes à la libre circulation des biens et des capitaux.
 
