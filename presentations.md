@@ -2,7 +2,7 @@
 layout: page
 title: Méthodes et outils de récolte
 ---
-
+Il s'agit de constituer un corpus de récits relatant des expériences de vie et de travail dans des milieux et des espaces différents qui témoignent de la façon dont elles ont été impactées par les politiques néolibérales.
 
 Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. 
 
@@ -10,7 +10,7 @@ Chaque témoignage sera filmé sur fond neutre, en plan rapproché et le montage
 
 Le choix d’une forme épurée semble essentiel pour faciliter une lecture transversale et comparative des témoignages. La mise en parallèle d’expériences de vie et de travail déployées dans des milieux différents permettra plus facilement la comparaison des nœuds critiques provoqués par l’impact des politiques néolibérales sur différents milieux et espaces sociaux. 
 
-La comparabilité sera aussi facilitée par la production d’un dans un « best off » de quatre minutes qui restituera les éléments clefs de chaque témoignage.
+La comparabilité sera aussi facilitée par la production d’un « best off » de quatre minutes qui restituera les éléments clefs de chaque témoignage.
 
 Pour permettre une large reproduction de l’expérience, les témoignages seront enregistrés avec des téléphones portables de bonne qualité en deux angles de prises de vue (de face et de trois-quarts profil gauche). Ces dispositifs techniques étant à disposition d’un large public, la base de documentation pourra ainsi être alimentée et élargie par toute personne souhaitant enregistrer un ou plusieurs témoignages en respectant les mêmes paramètres. 
 
@@ -37,3 +37,9 @@ Contacts, discussions et pérégrinations spatiales seront en grande partie film
 **Troisième phase**
 
 Dans cette troisième et dernière phase du projet il s’agira d’achever le développement du site web, de terminer les derniers montages des témoignages et d’entamer le montage du film de documentation de l’expérience. 
+
+Le développement d'un site web spécialement adapté à la nature d'un projet fondé sur la nécessité de restituer un portrait large et représentatif de la réalité française nous semble important. Nous essayeront de construire une interface capable d'orienter l'utilisateur en même temps sur les dimensions sociales, écologiques et territoriales.
+La page d’entrée du site ouvrira donc directement sur une carte de la France dans laquelle seront placés des points correspondant aux lieux d’habitation ou de travail des témoins. En cliquant sur un point, on pourra activer le témoignage avec la fiche descriptive correspondante et, par un index interactif, visionner des témoignages proches ou similaires.
+En même temps, plusieurs onglets permettront de repérer et d’activer la lecture des témoignages à partir de différentes grilles thématiques : lieux et formes de résidence, secteurs d’activité, professions, trajectoires sociales, genre, âge, contexte relationnel, etc.
+
+Toujours à partir de la page principale, on pourra activer la vision du documentaire de 52 minutes dédié à la présentation du making-off de l’expérience, avec les débats et discussions, figures rencontrées, paysages traversés et environnements visités.
