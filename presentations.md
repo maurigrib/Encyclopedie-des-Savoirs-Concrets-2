@@ -4,9 +4,9 @@ title: Méthodes et outils de récolte
 ---
 Il s'agit de constituer un corpus de récits relatant des expériences de vie et de travail dans des milieux et des espaces différents qui témoignent de la façon dont elles ont été impactées par les politiques néolibérales.
 
-Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. <br/><br/>
+<p>Pour former un corpus clair et facilement reproductible, tous les enregistrements seront opérés en utilisant le même cadre formel et les mêmes instruments techniques. <p/>
 Chaque témoignage sera filmé sur fond neutre, en plan rapproché et le montage finale aura une durée maximale de 20 minutes, comprenant une courte présentation autobiographique suivie du récit des expériences concrètes de la personne interviewée.
-Le choix d’une forme épurée semble essentiel pour faciliter une lecture transversale et comparative des témoignages. La mise en parallèle d’expériences de vie et de travail déployées dans des milieux différents permettra plus facilement la comparaison des nœuds critiques provoqués par l’impact des politiques néolibérales sur différents milieux et espaces sociaux. <br/>
+<p>Le choix d’une forme épurée semble essentiel pour faciliter une lecture transversale et comparative des témoignages. La mise en parallèle d’expériences de vie et de travail déployées dans des milieux différents permettra plus facilement la comparaison des nœuds critiques provoqués par l’impact des politiques néolibérales sur différents milieux et espaces sociaux.<p/>
 La comparabilité sera aussi facilitée par la production d’un « best off » de quatre minutes qui restituera les éléments clefs de chaque témoignage.<br/> 
 Pour permettre une large reproduction de l’expérience, les témoignages seront enregistrés avec des téléphones portables de bonne qualité en deux angles de prises de vue (de face et de trois-quarts profil gauche). Ces dispositifs techniques étant à disposition d’un large public, la base de documentation pourra ainsi être alimentée et élargie par toute personne souhaitant enregistrer un ou plusieurs témoignages en respectant les mêmes paramètres. 
 
