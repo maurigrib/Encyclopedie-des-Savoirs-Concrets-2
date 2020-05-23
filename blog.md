@@ -17,6 +17,9 @@ title: Participer activement au projet
 
 -  Vous pouvez aider au financement de ce projet à la mesure de vos moyens en versant à …. Nous avons besoin d'un budget de … pour financer des déplacements, le montage des vidéos, le tournage et le montage d'un film, le développement numérique du projet.
 
-**Nous écrire : savoirsconcrets@protonmail.com**
+Enfin vous pouvez aussi tout simplement, mais tout aussi efficacement, **participer au financement du projet en contribuant à la cagnotte** cf. onglet cagnotte participative.  
 
-**participer au financement : ....**
+
+**pour nous écrire : savoirsconcrets@protonmail.com**
+
+
