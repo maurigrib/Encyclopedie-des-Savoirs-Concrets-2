@@ -18,11 +18,13 @@ title: Participer activement au projet
 
 
 
-**pour nous écrire : savoirsconcrets@protonmail.com**
+**pour nous écrire : 
+savoirsconcrets@protonmail.com**
 
-**si vous souhaitez être tenus au courant de l'avancement du projet, inscrivez-vous sur notre liste mail qui diffusera un message bi-mensuel sur les avancements des travaux**
-https://lists.riseup.net/www/subscribe/encyclopediedessavoirsconcrets
+**vous pouvez être tenu.e.s au courant de l'avancement du projet en vous inscrivant sur notre liste de diffusion:**
+**https://lists.riseup.net/www/subscribe/encyclopediedessavoirsconcrets**
 
+(diffusion uniquement bimensuelle pour ne pas remplir vos boites mails)
 
 
 
