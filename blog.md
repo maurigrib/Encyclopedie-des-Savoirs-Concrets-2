@@ -15,11 +15,14 @@ title: Participer activement au projet
 
 -  Si vous êtes développeur web et/ou designer, votre aide serait fondamentale dans le développement du site web destiné à récolter l'ensemble des témoignages.
 
--  Vous pouvez aider au financement de ce projet à la mesure de vos moyens en versant à …. Nous avons besoin d'un budget de … pour financer des déplacements, le montage des vidéos, le tournage et le montage d'un film, le développement numérique du projet.
 
-Enfin vous pouvez aussi tout simplement, mais tout aussi efficacement, **participer au financement du projet en contribuant à la cagnotte** cf. onglet cagnotte participative.  
 
 
 **pour nous écrire : savoirsconcrets@protonmail.com**
+
+**si vous souhaitez être tenus au courant de l'avancement du projet, inscrivez-vous sur notre liste mail qui diffusera un message bi-mensuel sur les avancements des travaux**
+https://lists.riseup.net/www/subscribe/encyclopediedessavoirsconcrets
+
+
 
 
