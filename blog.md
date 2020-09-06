@@ -25,7 +25,7 @@ savoirsconcrets@protonmail.com**
 **vous pouvez être tenu.e.s au courant de l'avancement du projet en vous inscrivant sur notre liste de diffusion:**
 **https://lists.riseup.net/www/subscribe/encyclopediedessavoirsconcrets**
 
-(diffusion uniquement bimensuelle pour ne pas remplir vos boites mails)
+(diffusion uniquement mensuelle pour ne pas remplir vos boites mails)
 
 
 
