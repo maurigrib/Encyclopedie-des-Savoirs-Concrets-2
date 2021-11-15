@@ -20,11 +20,11 @@ Cette phase, actuellement en cours, est avant tout destinée à valider les mét
 Dans cette optique nous avons individualisé un premier groupe de témoins à partir des contacts directs d’un réseau de chercheurs universitaires qui travaillent au niveau national sur les questions de l’inégalité sociale et des transformations du marché du travail.
 
 Cela nous a permis de contacter un premier cercle de 30 témoins que nous avons commencé à interviewer.
-Nous avons dû interrompre cette première phase du travail à cause du confinement mais nous prévoyons de la reprendre à partir du mois de septembre 2020.  
+Nous avons dû interrompre cette première phase du travail à cause des différents confinements mais elle vient d'être reprise (octobre 2021).  
 
 **Deuxième phase de récolte**
 
-C’est la phase centrale et plus importante du projet au cours de laquelle nous allons élargir la récolte des témoignages sur l’ensemble du territoire national. 
+C’est la phase centrale et plus importante du projet au cours de laquelle nous essayerons d'élargir la récolte des témoignages sur l’ensemble du territoire national. 
 
 Dans cette phase nous serons épaulés à chaque fois par des correspondants locaux qui participeront aussi à l’élaboration de l’ensemble des travaux. 
 
