@@ -28,8 +28,3 @@ En quelques sorte l’idée de cette loi c’est qu’il faut sécuriser les ent
 ---
 
 Le projet ***« Encyclopédie des Savoirs Concrets »*** propose de constituer une large base de données d’interviews filmées ayant pour thématique l’impact réel sur le tissu de la société française des réformes et des transformations économiques et sociales qui ont eu lieu au cours des dernières décennies.
-
-
-Un récit de type road movie des moments clefs de l'expérience mettra en lumière les questionnements, les rencontres, et les différents territoires dans lesquels s'encadrent les récits des témoins.
-  
-  
